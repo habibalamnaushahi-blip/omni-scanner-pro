@@ -16,10 +16,9 @@ This tool is the result of months of research in complex mathematics and cryptog
 ### 💰 Pricing & Access
 **Price:** 50 USDT (TRC-20 / Polygon)
 
-> اس شاہکار کو بنانے میں مہینوں کی محنت اور پیچیدہ ریاضی (Algorithms) کا استعمال کیا گیا ہے۔ 50 USDT اس محنت کا صلہ نہیں، بلکہ ہمارے کام کی تھوڑی سی حوصلہ افزائی ہے تاکہ ہم آپ کے لیے "Hybrid Bitcoin Hunter" جیسے مزید طاقتور ٹولز بنا سکیں۔
-
 ---
 #### 📥 Download Instructions:
 1. Grant 'All Files Access' in settings to allow folder creation.
 2. Upload your address list (.txt file).
 3. Hit **START** to begin the hunt!
+4. Always Use Small Amounts Of Target Addresses To Get The Best Performance. 
