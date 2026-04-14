@@ -15,6 +15,8 @@ This tool is the result of months of research in complex mathematics and cryptog
 ---
 ### 💰 Pricing & Access
 **Price:** 50 USDT (TRC-20 / Polygon)
+-‐--
+
 
 ---
 #### 📥 Download Instructions:
