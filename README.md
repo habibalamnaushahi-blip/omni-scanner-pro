@@ -14,7 +14,7 @@ This tool is the result of months of research in complex mathematics and cryptog
 
 ---
 ### 💰 Pricing & Access
-**Price:** 50 USDT (Crypto Payment Only)
+**Price:** 100$ USDT (Crypto Payment Only)
 ---
 For Other Development Support ❤️:
 bc1qd7vl9eyf3u7aa7uy6elzadwxe3ylp82dc328x5
