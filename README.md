@@ -17,11 +17,14 @@ This tool is the result of months of research in complex mathematics and cryptog
 **Price:** 100$ USDT (Crypto Payment Only)
 ---
 For Other Development Support ❤️:
-bc1qd7vl9eyf3u7aa7uy6elzadwxe3ylp82dc328x5
+BTC Wallet:
+bc1qtf2jz2xlcx54eakg2afkexwd3m5mqxu66vma0a
 
-0x8607dca2c2604c25db1889d160a8b6677353912e
+Ethereum Wallet:
+0xcF61c74665B9F743b869fbbEb32756cA2e406A1A
 
-69e7gC7ZooQkQAJWqabJQYFi82agetAimRxC6jKnnP54
+Solana Wallet:
+2S1x5aLvArf5ubA62TDGXh71HXo1p3oizbeVsrJ4ALf9
 
 -‐--
 [![Visit Website](https://img.shields.io/badge/Download%20App-Click%20Here-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://habibalamnaushahi-blip.github.io/omni-scanner-pro/)
